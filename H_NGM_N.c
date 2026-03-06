@@ -1,6 +1,6 @@
 /***********************************
 This is prototype H_NGM_N, a hangman game you can play in C90.
-Authors: Alexandra VanMerkesteyn, Your Name
+Authors: Alexandra VanMerkesteyn, Nathaniel Molnar
 ***********************************/
 
 #include <stdio.h>
