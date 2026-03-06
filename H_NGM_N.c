@@ -9,6 +9,8 @@ Authors: Alexandra VanMerkesteyn, Your Name
 #define WORD_COUNT 5
 #define WORD_LENGTH 20
 #define MAX_ATTEMPTS 5
+
+
 /* Function prototypes */
 int selectRandomWord(void);
 void initializeDisplay(char display[], int length);
